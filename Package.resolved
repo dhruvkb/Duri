@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Numerizer",
+        "repositoryURL": "https://github.com/dhruvkb/Numerizer.git",
+        "state": {
+          "branch": null,
+          "revision": "d39bd3824897ff88449ba2f75d26f7db8b3e8269",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
